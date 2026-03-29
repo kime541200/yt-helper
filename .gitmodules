@@ -1,0 +1,6 @@
+[submodule "modules/yt-dlp-downloader-skill"]
+	path = modules/yt-dlp-downloader-skill
+	url = https://github.com/MapleShaw/yt-dlp-downloader-skill.git
+[submodule "modules/yt-mcp-server"]
+	path = modules/yt-mcp-server
+	url = https://github.com/kime541200/yt-mcp-server.git

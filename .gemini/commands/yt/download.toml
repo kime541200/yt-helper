@@ -1,0 +1,7 @@
+description = "執行影片下載流程捷徑 (將自動呼叫 youtube-downloader Skill)"
+
+prompt = """
+請使用 `youtube-downloader` 這個 Skill 來協助我搜尋並下載影片。
+
+**附加指令或上下文：** {{args}}
+"""

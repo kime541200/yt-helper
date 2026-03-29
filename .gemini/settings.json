@@ -1,0 +1,32 @@
+{
+    "context": {
+        "fileName": [
+            "./AGENTS.md"
+        ]
+    },
+    "mcpServers": {
+        "yt-mcp-server": {
+            "url": "http://localhost:8088/mcp"
+        }
+    },
+    "mcp": {
+        "allowed": [],
+        "excluded": []
+    },
+    "skills": {
+        "disabled": [
+            "skill-creator",
+            "ui-ux-pro-max",
+            "python-src-layout",
+            "mcp-server-tester",
+            "mcp-builder",
+            "llm-docs-optimizer",
+            "gitlab-cli",
+            "pretty-mermaid",
+            "humanizer-zh-tw",
+            "find-skills",
+            "code-review",
+            "auto-skill"
+        ]
+    }
+}
